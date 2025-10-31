@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: adijaiswal/frontend:latest
+          image: ganesh823/3-tier-githubactions-frontend:latest
           ports:
             - containerPort: 80
 ---
