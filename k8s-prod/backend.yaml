@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: adijaiswal/backend:latest
+          image: ganesh823/3-tier-githubactions-backend:latest
           ports:
             - containerPort: 5000
           env:
